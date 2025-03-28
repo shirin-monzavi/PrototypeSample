@@ -14,6 +14,12 @@ The example includes:
 ✅ A Factory includes two Prototype of word and spreadsheet in order to create them.
 
 
+### Use cases
+ 
+When object creation is expensive in terms of time or memory usage.
+
+When creating new instances of a class would be too complex or redundant.
+
  
 ### 🛠️ Technologies Used
  
