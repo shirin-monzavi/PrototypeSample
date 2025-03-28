@@ -13,3 +13,15 @@ The example includes:
  
 ✅ A Factory includes two Prototype of word and spreadsheet in order to create them.
 
+
+ 
+### 🛠️ Technologies Used
+ 
+C#
+ 
+.NET Framework 7.0
+
+### 🤝 Contributing
+ 
+Feel free to fork the repository, submit pull requests, or open issues for improvements and discussions.
+
